@@ -296,9 +296,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   font: 400 16px "Roboto", sans-serif;
   color: #fff;
 }
-.header_aera .searchForm .form-control::-webkit-input-placeholder {
-  font: 400 16px "Roboto", sans-serif;
-  color: #fff;
+
 }
 .header_aera .show {
   height: 80px;
@@ -672,7 +670,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* End about_us_area */
 /*--------------------------------------------------*/
 .what_we_area {
-  background: #f8b81d;
+  background: #FF8C00;
 }
 .what_we_area .tittle h2:after {
   background: #fff;
@@ -781,7 +779,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*--------------------------------------------------*/
 /* our_services_area */
 .our_services_area {
-  background: #2e3841;
+  background:#9bab29;
+}
   padding-bottom: 100px;
 }
 .our_services_area .tittle h2 {
